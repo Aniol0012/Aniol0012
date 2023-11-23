@@ -1,4 +1,4 @@
-# Hey, it's Aniol0012
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=1500&size=30&pause=1000&color=F7F7F7&background=5CFF3200&repeat=false&random=false&width=435&lines=Hey%2C+it's+Aniol0012)](https://git.io/typing-svg)
 
 ## About me
 
@@ -6,7 +6,7 @@ Engineering student at University of Lleida (UDL). Passionate about coding and t
 
 ## 📫 Contact me
 
-Feel free to contact me at aniol0012@gmail.com
+Feel free to contact me at: [aniol0012@gmail.com](mailto:aniol0012@gmail.com).
 
 ## 💻 Things I code with
 
