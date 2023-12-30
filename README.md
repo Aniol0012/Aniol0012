@@ -7,8 +7,8 @@ Computer Science student at University of Lleida ([UDL](https://udl.cat)), Spain
 ## 💻 Things I code with
 
 <p>
-  <a href="https://www.python.org" target="_blank" style="text-decoration:none !important; margin-right: 5px;"><img alt="python" src="https://img.shields.io/badge/-Python-3670A0?style=flat&logo=python&logoColor=ffdd54" /></a>
-  <a href="https://www.java.com" target="_blank" style="text-decoration:none !important; margin-right: 5px;"><img alt="java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white" /></a>
+  <a href="https://www.python.org" target="_blank" style="margin-right: 5px;"><img alt="python" src="https://img.shields.io/badge/-Python-3670A0?style=flat&logo=python&logoColor=ffdd54" /></a>
+  <a href="https://www.java.com" target="_blank" style="margin-right: 5px;"><img alt="java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white" /></a>
   <a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html" target="_blank" style="margin-right: 5px;"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" /></a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" style="margin-right: 5px;"><img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" /></a>
   <a href="https://www.gnu.org/software/bash/manual/bash.html" target="_blank" style="margin-right: 5px;"><img alt="bash" src="https://img.shields.io/badge/-Bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white" /></a>
