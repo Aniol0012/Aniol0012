@@ -7,17 +7,38 @@ Engineering student at University of Lleida (UDL). Passionate about coding and t
 ## 💻 Things I code with
 
 <p>
-  <img alt="python" src="https://img.shields.io/badge/-Python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
-  <img alt="java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
-  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
-  <img alt="bash" src="https://img.shields.io/badge/-Bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img alt="docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white" />
-  <img alt="postgres" src="https://img.shields.io/badge/-Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-FCAA00?style=flat&logo=JavaScript&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
+  <a href="https://www.python.org" target="_blank">
+    <img alt="python" src="https://img.shields.io/badge/-Python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <img alt="java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+  </a>
+  <a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html" target="_blank">
+    <img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+  </a>
+  <a href="https://www.gnu.org/software/bash/manual/bash.html" target="_blank">
+    <img alt="bash" src="https://img.shields.io/badge/-Bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img alt="docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img alt="postgres" src="https://img.shields.io/badge/-Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-FCAA00?style=flat&logo=JavaScript&logoColor=white" />
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
+    <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  </a>
+  <a href="https://docs.github.com/en/actions" target="_blank">
+    <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
+  </a>
 </p>
 
 ## 📫 Contact me
