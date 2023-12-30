@@ -32,8 +32,3 @@ Feel free to contact me at: [aniol0012@gmail.com](mailto:aniol0012@gmail.com).
     <img src="http://github-readme-streak-stats.herokuapp.com?user=Aniol0012&theme=javascript-dark&mode=weekly&card_width=600" alt="GitHub Streak" />
   </a>
 </p>
-
-
-<p align="center">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aniol0012&theme=javascript-dark&mode=weekly&card_width=600)](https://git.io/streak-stats)
-</p>
