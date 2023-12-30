@@ -2,7 +2,8 @@
 
 ## About me
 
-Computer Science student at University of Lleida ([UDL](https://udl.cat)), Spain. Passionate about coding and teamwork. You can also check my repos [here](https://github.com/Aniol0012?tab=repositories).
+Computer Science student at University of Lleida (<a href="https://udl.cat" target="_blank">UDL</a>)
+, Spain. Passionate about coding and teamwork. You can also check my repos [here](https://github.com/Aniol0012?tab=repositories).
 
 ## 💻 Things I code with
 
