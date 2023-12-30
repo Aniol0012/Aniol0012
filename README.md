@@ -27,6 +27,4 @@ Feel free to contact me at: [aniol0012@gmail.com](mailto:aniol0012@gmail.com).
 
 
 ## 📊 My stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniol0012&layout=compact&theme=dark&card_width=600&hide=html,css,shell,scss,makefile)
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aniol0012&theme=javascript-dark&mode=weekly&card_width=600)](https://git.io/streak-stats)
