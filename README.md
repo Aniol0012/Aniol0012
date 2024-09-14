@@ -1,8 +1,13 @@
 [![HELLO](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=1500&size=30&pause=1000&color=F7F7F7&background=5CFF3200&repeat=false&random=false&width=435&lines=Hey%2C+it's+Aniol0012)](https://github.com/Aniol0012)
 
-## About me
+## 🙋‍♂️ About me
 
 Computer Science student at University of Lleida ([UDL](https://udl.cat)), Spain. Passionate about coding and teamwork. You can also check my repos [here](https://github.com/Aniol0012?tab=repositories).
+
+## 👀 What am I working with?
+
+  - **ERP Development**: Currently I am developing an ERP for [HIOPOS CLOUD SOLUTIONS](https://www.hiopos.com/).
+  - **PacoMonkey - SIG Games**: Additionally, I am developing an Unity 2D game. For more information check [SIG Games Profile](https://github.com/SIGGames).
 
 ## 💻 Things I code with
 
