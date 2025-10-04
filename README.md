@@ -9,22 +9,49 @@ Computer Science student at University of Lleida ([UDL](https://udl.cat)), Spain
   - **ERP Development**: Currently I am developing an ERP for [HIOPOS CLOUD SOLUTIONS](https://www.hiopos.com/).
   - **PacoMonkey - SIG Games**: Additionally, I am developing an Unity 2D game. For more information check [SIG Games Profile](https://github.com/SIGGames).
 
-## 💻 Things I code with
+## 🧰 Tech stack
 
-<p>
-  <a href="https://www.python.org" target="_blank" style="margin-right: 5px;"><img alt="python" src="https://img.shields.io/badge/-Python-3670A0?style=flat&logo=python&logoColor=ffdd54" /></a>
-  <a href="https://www.java.com" target="_blank" style="margin-right: 5px;"><img alt="java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white" /></a>
-  <a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html" target="_blank" style="margin-right: 5px;"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" /></a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" style="margin-right: 5px;"><img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" /></a>
-  <a href="https://www.gnu.org/software/bash/manual/bash.html" target="_blank" style="margin-right: 5px;"><img alt="bash" src="https://img.shields.io/badge/-Bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white" /></a>
-  <a href="https://git-scm.com/" target="_blank" style="margin-right: 5px;"><img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" /></a>
-  <a href="https://www.docker.com/" target="_blank" style="margin-right: 5px;"><img alt="docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white" /></a>
-  <a href="https://www.postgresql.org/" target="_blank" style="margin-right: 5px;"><img alt="postgres" src="https://img.shields.io/badge/-Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="margin-right: 5px;"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-FCAA00?style=flat&logo=JavaScript&logoColor=white" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" style="margin-right: 5px;"><img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" /></a>
-  <a href="https://docs.github.com/en/actions" target="_blank"><img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" /></a>
-</p>
-
+<table>
+  <tr>
+    <td>Frontend</td>
+    <td>
+      <a href="https://angular.dev"><img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white"></a>
+      <a href="https://sass-lang.com/guide/"><img alt="SCSS" src="https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white"></a>
+      <a href="https://ionicframework.com"><img alt="Ionic" src="https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white"></a>
+      <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=111"></a>
+      <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"></a>
+      <a href="https://developer.mozilla.org/docs/Glossary/HTML5"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"></a>
+    </td>
+  </tr>
+  <tr>
+    <td>Backend</td>
+    <td>
+      <a href="https://spring.io/"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white"></a>
+      <a href="https://www.djangoproject.com/"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white"></a>
+      <a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"></a>
+      <a href="https://www.python.org"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=ffdd54"></a>
+      <a href="https://www.oracle.com/java/"><img alt="Java" src="https://img.shields.io/badge/Java-F89820?logo=openjdk&logoColor=white"></a>
+      <a href="https://learn.microsoft.com/dotnet/csharp/"><img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white"></a>
+      <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"></a>
+      <a href="https://www.postgresql.org/"><img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white"></a>
+    </td>
+  </tr>
+  <tr>
+    <td>Game Dev</td>
+    <td>
+      <a href="https://unity.com/"><img alt="Unity" src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white"></a>
+    </td>
+  </tr>
+  <tr>
+    <td>DevOps & Tools</td>
+    <td>
+      <a href="https://docs.github.com/en/actions"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white"></a>
+      <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"></a>
+      <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"></a>
+      <a href="https://www.gnu.org/software/bash/"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011?logo=gnubash&logoColor=white"></a>
+    </td>
+  </tr>
+</table>
 
 ## 📫 Contact me
 
