@@ -74,7 +74,7 @@ Master’s student of Computer Science at University of Lleida ([UDL](https://ud
 </p>
 <p>2D platformer in Unity and a website for SIG Games.</p>
 
-### ★ UniRoom
+### ★ [UniHub](https://computer-engineering-udl.github.io/UniHub-Front/)
 <p>
   <a href="https://github.com/Computer-Engineering-UdL"><img alt="Status: Ongoing" src="https://img.shields.io/badge/Status-Ongoing-yellow"></a>
   <a href="https://github.com/SIGGames"><img alt="Years 2025–Present" src="https://img.shields.io/badge/Years-2025%E2%80%93Present-blue"></a>
