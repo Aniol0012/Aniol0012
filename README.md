@@ -63,6 +63,8 @@ Master’s student of Computer Science at University of Lleida ([UDL](https://ud
 <p>Developing an ERP focused on scalable modules and cloud-first architecture.</p>
 <p><a href="https://www.hiopos.com/">Hiopos</a></p>
 
+--- 
+
 ### ★ [PacoMonkey](https://github.com/SIGGames/PacoMonkey) - [SIG Games](https://siggames.cat/)
 <p>
   <a href="https://github.com/SIGGames"><img alt="Status: Finished" src="https://img.shields.io/badge/Status-Finished-brightgreen"></a>
@@ -74,10 +76,12 @@ Master’s student of Computer Science at University of Lleida ([UDL](https://ud
 </p>
 <p>2D platformer in Unity and a website for SIG Games.</p>
 
+--- 
+
 ### ★ [UniHub](https://computer-engineering-udl.github.io/UniHub-Front/)
 <p>
-  <a href="https://github.com/Computer-Engineering-UdL"><img alt="Status: Ongoing" src="https://img.shields.io/badge/Status-Ongoing-yellow"></a>
-  <a href="https://github.com/SIGGames"><img alt="Years 2025–Present" src="https://img.shields.io/badge/Years-2025%E2%80%93Present-blue"></a>
+  <a href="https://github.com/Computer-Engineering-UdL"><img alt="Status: Finished" src="https://img.shields.io/badge/Status-Finished-brightgreen"></a>
+  <a href="https://github.com/SIGGames"><img alt="Years 2025–2026" src="https://img.shields.io/badge/Years-2025%E2%80%93Present-blue"></a>
   
   <a href="https://ionicframework.com"><img alt="Ionic" src="https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white"></a>
   <a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"></a>
@@ -90,6 +94,26 @@ Master’s student of Computer Science at University of Lleida ([UDL](https://ud
   <a href="https://github.com/Computer-Engineering-UdL/UniRoom-Front">Front</a> ·
   <a href="https://github.com/Computer-Engineering-UdL/UniRoom-Back/tree/main">Back</a>
 </p>
+
+--- 
+
+### ★ [TikZ Drawer](https://aniol0012.github.io/tikz-drawer/)
+<p>
+  <a href="https://aniol0012.github.io/tikz-drawer/"><img alt="Status: Ongoing" src="https://img.shields.io/badge/Status-Ongoing-yellow"></a>
+  <a href="https://github.com/Aniol0012/tikz-drawer"><img alt="Years 2026–Present" src="https://img.shields.io/badge/Years-2026%E2%80%93Present-blue"></a>
+
+  <a href="https://angular.dev"><img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white"></a>
+  <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"></a>
+  <a href="https://sass-lang.com/guide/"><img alt="SCSS" src="https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white"></a>
+  <a href="https://developer.mozilla.org/docs/Glossary/HTML5"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"></a>
+</p>
+<p>Web application for creating, editing and exporting drawings as TikZ code for LaTeX documents.</p>
+<p>
+  <a href="https://aniol0012.github.io/tikz-drawer/">Live demo</a> ·
+  <a href="https://github.com/Aniol0012/tikz-drawer">Repository</a>
+</p>
+
+--- 
 
 ## 📫 Contact me
 
