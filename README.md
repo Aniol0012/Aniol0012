@@ -81,7 +81,7 @@ Master’s student of Computer Science at University of Lleida ([UDL](https://ud
 ### ★ [UniHub](https://computer-engineering-udl.github.io/UniHub-Front/)
 <p>
   <a href="https://github.com/Computer-Engineering-UdL"><img alt="Status: Finished" src="https://img.shields.io/badge/Status-Finished-brightgreen"></a>
-  <a href="https://github.com/SIGGames"><img alt="Period 2025–2026" src="https://img.shields.io/badge/Period-2025%E2%80%93Present-blue"></a>
+  <a href="https://github.com/SIGGames"><img alt="Period 2025–2026" src="https://img.shields.io/badge/Period-2025%E2%80%932026-blue"></a>
   
   <a href="https://ionicframework.com"><img alt="Ionic" src="https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white"></a>
   <a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"></a>
