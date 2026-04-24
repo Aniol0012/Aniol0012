@@ -54,7 +54,7 @@ Master’s student of Computer Science at University of Lleida ([UDL](https://ud
 
 <p>
   <a href="https://www.hiopos.com/"><img alt="Status: Ongoing" src="https://img.shields.io/badge/Status-Ongoing-yellow"></a>
-  <a href="https://github.com/SIGGames"><img alt="Years 2024–Present" src="https://img.shields.io/badge/Years-2024%E2%80%93Present-blue"></a>
+  <a href="https://github.com/SIGGames"><img alt="Period 2024–Present" src="https://img.shields.io/badge/Period-2024%E2%80%93Present-blue"></a>
   
   <a href="https://angular.dev"><img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white"></a>
   <a href="https://spring.io/"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white"></a>
@@ -68,7 +68,7 @@ Master’s student of Computer Science at University of Lleida ([UDL](https://ud
 ### ★ [PacoMonkey](https://github.com/SIGGames/PacoMonkey) - [SIG Games](https://siggames.cat/)
 <p>
   <a href="https://github.com/SIGGames"><img alt="Status: Finished" src="https://img.shields.io/badge/Status-Finished-brightgreen"></a>
-  <a href="https://github.com/SIGGames"><img alt="Years 2023–2025" src="https://img.shields.io/badge/Years-2023%E2%80%932025-blue"></a>
+  <a href="https://github.com/SIGGames"><img alt="Period 2023–2025" src="https://img.shields.io/badge/Period-2023%E2%80%932025-blue"></a>
   
   <a href="https://unity.com/"><img alt="Unity" src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white"></a>
   <a href="https://learn.microsoft.com/dotnet/csharp/"><img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white"></a>
@@ -81,7 +81,7 @@ Master’s student of Computer Science at University of Lleida ([UDL](https://ud
 ### ★ [UniHub](https://computer-engineering-udl.github.io/UniHub-Front/)
 <p>
   <a href="https://github.com/Computer-Engineering-UdL"><img alt="Status: Finished" src="https://img.shields.io/badge/Status-Finished-brightgreen"></a>
-  <a href="https://github.com/SIGGames"><img alt="Years 2025–2026" src="https://img.shields.io/badge/Years-2025%E2%80%93Present-blue"></a>
+  <a href="https://github.com/SIGGames"><img alt="Period 2025–2026" src="https://img.shields.io/badge/Period-2025%E2%80%93Present-blue"></a>
   
   <a href="https://ionicframework.com"><img alt="Ionic" src="https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white"></a>
   <a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"></a>
@@ -100,7 +100,7 @@ Master’s student of Computer Science at University of Lleida ([UDL](https://ud
 ### ★ [TikZ Drawer](https://aniol0012.github.io/tikz-drawer/)
 <p>
   <a href="https://aniol0012.github.io/tikz-drawer/"><img alt="Status: Ongoing" src="https://img.shields.io/badge/Status-Ongoing-yellow"></a>
-  <a href="https://github.com/Aniol0012/tikz-drawer"><img alt="Years 2026–Present" src="https://img.shields.io/badge/Years-2026%E2%80%93Present-blue"></a>
+  <a href="https://github.com/Aniol0012/tikz-drawer"><img alt="Period 2026–Present" src="https://img.shields.io/badge/Period-2026%E2%80%93Present-blue"></a>
 
   <a href="https://angular.dev"><img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white"></a>
   <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"></a>
