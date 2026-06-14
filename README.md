@@ -97,9 +97,9 @@ Master’s student of Computer Science at University of Lleida ([UDL](https://ud
 
 --- 
 
-### ★ [TikZ Drawer](https://aniol0012.github.io/tikz-drawer/)
+### ★ [TikZ Drawer](https://tikzdrawer.com/)
 <p>
-  <a href="https://aniol0012.github.io/tikz-drawer/"><img alt="Status: Ongoing" src="https://img.shields.io/badge/Status-Ongoing-yellow"></a>
+  <a href="https://tikzdrawer.com/"><img alt="Status: Ongoing" src="https://img.shields.io/badge/Status-Ongoing-yellow"></a>
   <a href="https://github.com/Aniol0012/tikz-drawer"><img alt="Period 2026–Present" src="https://img.shields.io/badge/Period-2026%E2%80%93Present-blue"></a>
 
   <a href="https://angular.dev"><img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white"></a>
@@ -109,7 +109,7 @@ Master’s student of Computer Science at University of Lleida ([UDL](https://ud
 </p>
 <p>Web application for creating, editing and exporting drawings as TikZ code for LaTeX documents.</p>
 <p>
-  <a href="https://aniol0012.github.io/tikz-drawer/">Live demo</a> ·
+  <a href="https://tikzdrawer.com/">Live demo</a> ·
   <a href="https://github.com/Aniol0012/tikz-drawer">Repository</a>
 </p>
 
