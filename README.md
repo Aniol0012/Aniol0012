@@ -66,52 +66,83 @@ Master’s student of Computer Science at University of Lleida ([UDL](https://ud
 --- 
 
 ### ★ [PacoMonkey](https://github.com/SIGGames/PacoMonkey) - [SIG Games](https://siggames.vercel.app/)
+
+<a href="https://github.com/SIGGames/PacoMonkey"><img align="right" width="400" src="https://github.com/user-attachments/assets/6f2b2923-f66f-40d9-8bd3-fd8b21aa278d" alt="PacoMonkey preview"></a>
+
 <p>
   <a href="https://github.com/SIGGames"><img alt="Status: Finished" src="https://img.shields.io/badge/Status-Finished-brightgreen"></a>
-  <a href="https://github.com/SIGGames"><img alt="Period 2023–2025" src="https://img.shields.io/badge/Period-2023%E2%80%932025-blue"></a>
-  
+  <a href="https://github.com/SIGGames/PacoMonkey"><img alt="Period 2023–2025" src="https://img.shields.io/badge/Period-2023%E2%80%932025-blue"></a>
+</p>
+
+<p>
   <a href="https://unity.com/"><img alt="Unity" src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white"></a>
   <a href="https://learn.microsoft.com/dotnet/csharp/"><img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white"></a>
   <a href="https://angular.dev"><img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white"></a>
 </p>
-<p>2D platformer in Unity and a website for SIG Games.</p>
+
+<p>2D platformer developed in Unity, alongside a web platform for SIG Games.</p>
+
+<p>
+  <a href="https://github.com/SIGGames/PacoMonkey">Repository</a> ·
+  <a href="https://siggames.vercel.app/">SIG Games</a>
+</p>
+
+<br clear="right">
 
 --- 
 
 ### ★ [UniHub](https://computer-engineering-udl.github.io/UniHub-Front/)
+
+<a href="https://computer-engineering-udl.github.io/UniHub-Front/"><img align="right" width="400" src="https://github.com/user-attachments/assets/383dec84-e416-470c-98ef-6b3187ad8e4e" alt="UniHub preview"></a>
+
 <p>
   <a href="https://github.com/Computer-Engineering-UdL"><img alt="Status: Finished" src="https://img.shields.io/badge/Status-Finished-brightgreen"></a>
-  <a href="https://github.com/SIGGames"><img alt="Period 2025–2026" src="https://img.shields.io/badge/Period-2025%E2%80%932026-blue"></a>
-  
+  <a href="https://github.com/Computer-Engineering-UdL"><img alt="Period 2025–2026" src="https://img.shields.io/badge/Period-2025%E2%80%932026-blue"></a>
+</p>
+
+<p>
   <a href="https://ionicframework.com"><img alt="Ionic" src="https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white"></a>
   <a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"></a>
   <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"></a>
   <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"></a>
   <a href="https://sass-lang.com/guide/"><img alt="SCSS" src="https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white"></a>
 </p>
+
 <p>UNI community management platform: auth, chat, room booking and announcements.</p>
+
 <p>
   <a href="https://github.com/Computer-Engineering-UdL/UniRoom-Front">Front</a> ·
   <a href="https://github.com/Computer-Engineering-UdL/UniRoom-Back/tree/main">Back</a>
 </p>
 
+<br clear="right">
+
 --- 
 
 ### ★ [TikZ Drawer](https://tikzdrawer.com/)
+
+<a href="https://tikzdrawer.com/"><img align="right" width="400" src="https://github.com/user-attachments/assets/907ae003-0044-409c-a71a-d2a4bf7ff7b7" alt="TikZ Drawer preview"></a>
+
 <p>
   <a href="https://tikzdrawer.com/"><img alt="Status: Ongoing" src="https://img.shields.io/badge/Status-Ongoing-yellow"></a>
   <a href="https://github.com/Aniol0012/tikz-drawer"><img alt="Period 2026–Present" src="https://img.shields.io/badge/Period-2026%E2%80%93Present-blue"></a>
+</p>
 
+<p>
   <a href="https://angular.dev"><img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white"></a>
   <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"></a>
   <a href="https://sass-lang.com/guide/"><img alt="SCSS" src="https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white"></a>
   <a href="https://developer.mozilla.org/docs/Glossary/HTML5"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"></a>
 </p>
+
 <p>Web application for creating, editing and exporting drawings as TikZ code for LaTeX documents.</p>
+
 <p>
   <a href="https://tikzdrawer.com/">Live demo</a> ·
   <a href="https://github.com/Aniol0012/tikz-drawer">Repository</a>
 </p>
+
+<br clear="right">
 
 --- 
 
