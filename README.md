@@ -2,7 +2,7 @@
 
 ## 🙋‍♂️ About me
 
-Master’s student of Computer Science at University of Lleida ([UDL](https://udl.cat)), Spain. Passionate about coding and teamwork. You can also check my repos [here](https://github.com/Aniol0012?tab=repositories).
+Master’s student of Computer Science at [University of Lleida](https://udl.cat), Spain. Passionate about coding and teamwork. You can also check my repos [here](https://github.com/Aniol0012?tab=repositories).
 
 ## 🧰 Tech stack
 
@@ -148,7 +148,12 @@ Master’s student of Computer Science at University of Lleida ([UDL](https://ud
 
 ## 📫 Contact me
 
-Feel free to contact me at: [aniol0012@gmail.com](mailto:aniol0012@gmail.com).
+Feel free to contact me via:
+
+<p>
+  <a href="mailto:aniol0012@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aniol0012%40gmail.com-EA4335?logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/aniol0012/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-aniol0012-0A66C2?logo=linkedin&logoColor=white"></a>
+</p>
 
 
 ## 📊 My stats
