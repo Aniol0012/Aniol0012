@@ -129,6 +129,6 @@ Feel free to contact me at: [aniol0012@gmail.com](mailto:aniol0012@gmail.com).
 
 <p align="center">
   <a href="https://gitfut.com/Aniol0012">
-    <img src="https://gitfut.com/Aniol0012.png" alt="My GitFut card" width="400" />
+    <img src="https://gitfut.com/Aniol0012.png" alt="My GitFut card" width="300" />
   </a>
 </p>
