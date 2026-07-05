@@ -126,3 +126,9 @@ Feel free to contact me at: [aniol0012@gmail.com](mailto:aniol0012@gmail.com).
     <img src="http://github-readme-streak-stats.herokuapp.com?user=Aniol0012&theme=javascript-dark&mode=weekly&card_width=600" alt="GitHub Streak" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://gitfut.com/Aniol0012">
+    <img src="https://gitfut.com/Aniol0012.png" alt="My GitFut card" width="400" />
+  </a>
+</p>
